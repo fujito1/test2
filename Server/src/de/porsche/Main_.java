@@ -2,7 +2,7 @@
 
     import java.io.IOException;
 
-    public class Main {
+    public class Main_ {
 
         public static void main(String[] args) {
             for(int i=0;i< 3; i++){
